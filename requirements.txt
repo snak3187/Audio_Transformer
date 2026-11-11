@@ -1,0 +1,7 @@
+customtkinter>=5.2.0
+imageio-ffmpeg>=0.5.1
+librosa>=0.11.0
+numpy>=2.0.0
+Pillow>=10.0.0
+soundfile>=0.13.1
+
